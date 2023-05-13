@@ -1,0 +1,51 @@
+#round1{
+   border-radius: 25px;
+   background-color: yellowgreen;
+   width: 200px;
+   height: 150px;
+   padding: 20px;
+   position: relative;
+}
+#round2{
+    border-radius: 25px;
+   border: 5px solid yellow;
+   width: 200px;
+   height: 150px;
+   padding: 20px;
+   position: relative; 
+
+}
+#round3{
+    border-radius: 25px;
+    background: url(demoimg.jpg);
+    background-repeat: repeat;
+    background-position: left top;
+    height: 150px;
+    padding: 20px;
+    width: 200px;
+    position: relative;
+
+}#round4{
+    border-radius: 15px 50px 30px 5px;
+    background-color: #a44170;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    position: relative;
+}
+#round5{
+    border-radius: 15px 50px 30px ;
+    background-color: #a44170;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    position: relative;
+}
+#round6{
+    border-radius: 15px 50px;
+    background-color: #a44170;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    position: relative;
+}

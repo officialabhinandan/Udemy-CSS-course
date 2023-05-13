@@ -1,0 +1,19 @@
+.eg1{
+  border: 7px solid;
+  border-top-color: rgb(255, 0, 0);
+  border-bottom-color: rgb(0, 255, 0);
+  border-left-color: rgb(0, 0, 255);
+  border-right-color: hsl(310, 79%, 48%);
+}
+.eg2{
+  border: 7px solid;
+  border-color: brown;
+}
+#pdd{
+    background-color: blue;
+    color: whitesmoke;
+    padding: 5px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: larger;
+}

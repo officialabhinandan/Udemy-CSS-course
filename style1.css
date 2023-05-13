@@ -1,0 +1,39 @@
+#p11{
+    background-color: rgba(255, 0, 0, 0.9);
+}
+#p12{
+    /* background-color: rgba(255, 0, 0, 0.1); */
+    background-color: rgb(255, 0, 0); opacity: 0.1;
+}
+#p21{
+    background-color: rgba(0, 255, 0, 0.8);
+}
+#p22{
+    /* background-color: rgba(0, 255, 0, 0.2); */
+    background-color: rgb(0, 255, 0); opacity: 0.2;
+}
+#p31{
+    background-color: rgba(0, 0, 255, 0.7);
+}
+#p32{
+    /* background-color: rgba(0, 0, 255, 0.3); */
+    background-color: rgb(0, 0, 255); opacity: 0.3;
+}
+#p13{
+    background-color: hsl(0, 100%, 30%);
+}
+#p14{
+    background-color: hsl(360, 50%, 60%);
+}
+#p23{
+    background-color: hsl(120, 100%, 35%);
+}
+#p24{
+    background-color: hsl(120, 50%, 75%);
+}
+#p33{
+    background-color: hsl(240, 100%, 20%);
+}
+#p34{
+    background-color: hsl(240, 50%, 75%);
+}
